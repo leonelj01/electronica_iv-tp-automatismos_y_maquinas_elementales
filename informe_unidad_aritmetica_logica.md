@@ -37,6 +37,4 @@ En la siguiente imagen se puede apreciar el esquematico de la ALU:
 Con el circuito anterior se logro realizar lo pedido en el enunciado.
 ## Conclusiones
 
-La unidad aritmetica Logica podria contemplarse como una computador puesto que no realiza operaciones de manera automatica ya que necesita de un operador 
-que introduzca los numeros y determine que operacion se esta realizando, pero tampoco contaria como maquina elemental puesto que no realiza una unica tarea 
-por lo tanto calificaria mas como un tipo de computadora.
+La unidad aritmetica Logica podria (ALU) es una mquina elemental pues solo realiza funciones basicas.
